@@ -44,4 +44,5 @@ fun login()
     Text(text = "Войдите, чтобы пользоваться функциями приложения\n", fontSize=22.sp, fontFamily=FontFamily.Monospace)
     Text(text = "Вход по Email", fontSize=16.sp, fontFamily=FontFamily.Monospace, color = Color.Gray)
     Text(text = "Войдите, чтобы пользоваться функциями приложения", fontSize=22.sp, fontFamily=FontFamily.Monospace)
+
 }
